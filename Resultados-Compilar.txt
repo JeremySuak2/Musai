@@ -1,0 +1,10 @@
+﻿1>------ Operación Compilar iniciada: proyecto: musaicafe2, configuración: Debug Any CPU ------
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\Categoria.cs(15,27,15,32): warning CS0169: El campo 'capaDominio.Categoria.mesas' no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\principal.cs(19,13,19,24): warning CS0414: El campo 'capaDominio.principal.nombreBoton' está asignado pero su valor no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\principal.cs(20,13,20,26): warning CS0414: El campo 'capaDominio.principal.cantidadMesas' está asignado pero su valor no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\productos.cs(26,17,26,28): warning CS0414: El campo 'capaDominio.productos.nombreBoton' está asignado pero su valor no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\productos.cs(27,17,27,30): warning CS0414: El campo 'capaDominio.productos.cantidadMesas' está asignado pero su valor no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\productos.cs(28,17,28,32): warning CS0414: El campo 'capaDominio.productos.numerosproducto' está asignado pero su valor no se usa nunca
+1>C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\productos.cs(30,20,30,34): warning CS0414: El campo 'capaDominio.productos.Mesa_aEliminar' está asignado pero su valor no se usa nunca
+1>  musaicafe2 -> C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
