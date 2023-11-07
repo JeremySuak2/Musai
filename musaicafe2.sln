@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musaicafe2", "musaicafe2\musaicafe2.csproj", "{65DDE340-9A80-4BF0-83A1-5F8D18F78FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DDE340-9A80-4BF0-83A1-5F8D18F78FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DDE340-9A80-4BF0-83A1-5F8D18F78FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DDE340-9A80-4BF0-83A1-5F8D18F78FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DDE340-9A80-4BF0-83A1-5F8D18F78FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

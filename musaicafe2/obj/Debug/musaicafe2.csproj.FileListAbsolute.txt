@@ -1,0 +1,140 @@
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.exe
+c:\users\programacion\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.pdb
+C:\Users\PROGRAMACION\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\JTextBox.dll
+C:\Users\PROGRAMACION\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\JDragControl.dll
+C:\Users\PROGRAMACION\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\JGradient Panel.dll
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe.config
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.exe
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.pdb
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\bin\Debug\musaicafe2.pdb
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csprojResolveAssemblyReference.cache
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form1.resources
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form2.resources
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form3.resources
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.principal.resources
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Properties.Resources.resources
+C:\Users\Edu\Desktop\xxx\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.Cache
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe.config
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.exe
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.pdb
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.pdb
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csprojResolveAssemblyReference.cache
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form1.resources
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form2.resources
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form3.resources
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.principal.resources
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Properties.Resources.resources
+D:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.Cache
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe.config
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\musaicafe2.pdb
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Data.v15.2.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Data.v15.2.xml
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.AssemblyReference.cache
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form1.resources
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form2.resources
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Form3.resources
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.principal.resources
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.Properties.Resources.resources
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.cache
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.CoreCompileInputs.cache
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.CopyComplete
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.exe
+E:\xxx\Nueva carpeta\musaicafe2\musaicafe2\obj\Debug\musaicafe2.pdb
+C:\Users\PROGRAMACION\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.cliente.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form1.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form2.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form3.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.principal.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.productos.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Properties.Resources.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.configuración.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.CambiarMesa.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Categoria.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.AñadirMesero.resources
+C:\Users\PROGRAMACION\documents\visual studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.inventario.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe.config
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.exe
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.pdb
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.exe
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\bin\Debug\musaicafe2.pdb
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csprojResolveAssemblyReference.cache
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.AñadirMesero.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.CambiarMesa.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Categoria.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.cliente.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.configuración.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form1.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form2.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Form3.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.inventario.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.principal.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.productos.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\capaDominio.Properties.Resources.resources
+C:\Users\Graphic Desing\Documents\Visual Studio 2013\Projects\musaicafe2\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\bin\Debug\musaicafe2.exe.config
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\bin\Debug\musaicafe2.exe
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\bin\Debug\musaicafe2.pdb
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.AñadirMesero.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.CambiarMesa.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Categoria.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.cliente.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.configuración.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Form1.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Form2.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Form3.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.inventario.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.principal.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.productos.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Properties.Resources.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.csproj.CopyComplete
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.exe
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\musaicafe2.pdb
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.AgregarProductoAInventario.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.regalias.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.VentaRapidas.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.FacturaGenerada.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Form4.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.Barra.resources
+C:\Users\DELL\Desktop\Sistema control mesa por Memyx\musaicafe2\obj\Debug\capaDominio.InputDialogForms.resources
